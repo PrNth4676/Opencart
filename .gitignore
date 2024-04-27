@@ -1,2 +1,4 @@
-target/
-resources/
+/target
+/test-output
+/resources/logs
+/resources/reports
