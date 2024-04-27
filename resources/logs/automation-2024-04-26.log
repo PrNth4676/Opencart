@@ -1,0 +1,54 @@
+23:15:19.100 [main] INFO  testCases.TC_002_LoginTest - Entered username
+23:15:19.210 [main] INFO  testCases.TC_002_LoginTest - Entered password
+23:15:19.306 [main] INFO  testCases.TC_002_LoginTest - Clicked on Log In
+23:15:20.228 [main] INFO  testCases.TC_002_LoginTest - **********Finished the Test of TC_001***********
+23:15:20.241 [main] INFO  testCases.TC_002_LoginTest - [+] Closing the Browser
+23:22:10.634 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Started the Chrome Browser
+23:22:14.709 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Opened the PARA BANK Portal
+23:22:14.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Maximized the Chrome Browser
+23:22:14.761 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Started the Test of TC_001***********
+23:22:14.761 [main] DEBUG testCases.TC_001_AccountRegistrationTest - **APPLICATION LOGS**
+23:22:14.773 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Clicked in Register Link
+23:22:16.617 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Finished the Test of TC_001***********
+23:22:16.629 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Closing the Browser
+23:22:17.563 [main] INFO  testCases.TC_002_LoginTest - [+] Started the Chrome Browser
+23:22:23.339 [main] INFO  testCases.TC_002_LoginTest - [+] Opened the PARA BANK Portal
+23:22:23.375 [main] INFO  testCases.TC_002_LoginTest - [+] Maximized the Chrome Browser
+23:22:23.377 [main] INFO  testCases.TC_002_LoginTest - **********Started the Test of TC_001***********
+23:22:23.378 [main] DEBUG testCases.TC_002_LoginTest - **APPLICATION LOGS**
+23:22:23.378 [main] INFO  testCases.TC_002_LoginTest - Entered username
+23:22:23.431 [main] INFO  testCases.TC_002_LoginTest - Entered password
+23:22:23.498 [main] INFO  testCases.TC_002_LoginTest - Clicked on Log In
+23:22:24.055 [main] INFO  testCases.TC_002_LoginTest - **********Finished the Test of TC_001***********
+23:22:24.058 [main] INFO  testCases.TC_002_LoginTest - [+] Closing the Browser
+23:24:35.610 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Started the Chrome Browser
+23:24:40.389 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Opened the PARA BANK Portal
+23:24:40.431 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Maximized the Chrome Browser
+23:24:40.443 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Started the Test of TC_001***********
+23:24:40.443 [main] DEBUG testCases.TC_001_AccountRegistrationTest - **APPLICATION LOGS**
+23:24:40.457 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Clicked in Register Link
+23:24:42.086 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Finished the Test of TC_001***********
+23:24:42.098 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Closing the Browser
+23:24:42.999 [main] INFO  testCases.TC_002_LoginTest - [+] Started the Chrome Browser
+23:24:44.345 [main] INFO  testCases.TC_002_LoginTest - [+] Opened the PARA BANK Portal
+23:24:44.376 [main] INFO  testCases.TC_002_LoginTest - [+] Maximized the Chrome Browser
+23:24:44.378 [main] INFO  testCases.TC_002_LoginTest - **********Started the Test of TC_001***********
+23:24:44.378 [main] DEBUG testCases.TC_002_LoginTest - **APPLICATION LOGS**
+23:24:44.379 [main] INFO  testCases.TC_002_LoginTest - Entered username
+23:24:44.434 [main] INFO  testCases.TC_002_LoginTest - Entered password
+23:24:44.504 [main] INFO  testCases.TC_002_LoginTest - Clicked on Log In
+23:24:45.012 [main] INFO  testCases.TC_002_LoginTest - **********Finished the Test of TC_001***********
+23:24:45.015 [main] INFO  testCases.TC_002_LoginTest - [+] Closing the Browser
+23:27:26.003 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Started the Chrome Browser
+23:27:30.577 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Opened the PARA BANK Portal
+23:27:30.612 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Maximized the Chrome Browser
+23:27:30.623 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Started the Test of TC_001***********
+23:27:30.623 [main] DEBUG testCases.TC_001_AccountRegistrationTest - **APPLICATION LOGS**
+23:27:30.636 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Clicked in Register Link
+23:27:32.181 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Finished the Test of TC_001***********
+23:27:32.193 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Closing the Browser
+23:27:33.076 [main] INFO  testCases.TC_002_LoginTest - [+] Started the Chrome Browser
+23:27:36.064 [main] INFO  testCases.TC_002_LoginTest - [+] Opened the PARA BANK Portal
+23:27:36.090 [main] INFO  testCases.TC_002_LoginTest - [+] Maximized the Chrome Browser
+23:27:36.092 [main] INFO  testCases.TC_002_LoginTest - **********Started the Test of TC_001***********
+23:27:36.092 [main] DEBUG testCases.TC_002_LoginTest - **APPLICATION LOGS**

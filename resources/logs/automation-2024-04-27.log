@@ -1,0 +1,48 @@
+14:45:28.608 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **********Finished the Test of TC_001***********
+14:45:28.615 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - [+] Closing the Browser
+15:30:57.097 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Started the Chrome Browser
+15:31:03.369 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Opened the PARA BANK Portal
+15:31:03.404 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Maximized the Chrome Browser
+15:31:03.420 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Started the Test of TC_001***********
+15:31:03.422 [main] DEBUG testCases.TC_001_AccountRegistrationTest - **APPLICATION LOGS**
+15:31:03.434 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Clicked in Register Link
+15:31:05.370 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Finished the Test of TC_001***********
+15:31:05.381 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Closing the Browser
+17:58:59.453 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Started the Chrome Browser
+17:59:06.581 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Opened the PARA BANK Portal
+17:59:06.622 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Maximized the Chrome Browser
+17:59:06.635 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Started the Test of TC_001***********
+17:59:06.635 [main] DEBUG testCases.TC_001_AccountRegistrationTest - **APPLICATION LOGS**
+17:59:06.752 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Clicked in Register Link
+17:59:08.986 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Finished the Test of TC_001***********
+17:59:08.999 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Closing the Browser
+18:39:25.414 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Started the Chrome Browser
+18:39:29.219 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Opened the PARA BANK Portal
+18:39:29.252 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Maximized the Chrome Browser
+18:39:29.260 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Started the Test of TC_001***********
+18:39:29.260 [main] DEBUG testCases.TC_001_AccountRegistrationTest - **APPLICATION LOGS**
+18:39:29.274 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Clicked in Register Link
+18:39:30.742 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Finished the Test of TC_001***********
+18:39:30.748 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Closing the Browser
+19:29:51.158 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Started the Chrome Browser
+19:30:01.363 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Opened the PARA BANK Portal
+19:30:01.396 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Maximized the Chrome Browser
+19:30:01.409 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Started the Test of TC_001***********
+19:30:01.409 [main] DEBUG testCases.TC_001_AccountRegistrationTest - **APPLICATION LOGS**
+19:30:01.426 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Clicked in Register Link
+19:30:03.950 [main] ERROR testCases.TC_001_AccountRegistrationTest - [!] Assertion Failed as there is Incorrect Confirmation Message
+19:30:03.967 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Finished the Test of TC_001***********
+19:30:04.152 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Closing the Browser
+19:31:51.228 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Started the Chrome Browser
+19:31:55.409 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Opened the PARA BANK Portal
+19:31:55.445 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Maximized the Chrome Browser
+19:31:55.457 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Started the Test of TC_001***********
+19:31:55.458 [main] DEBUG testCases.TC_001_AccountRegistrationTest - **APPLICATION LOGS**
+19:31:55.474 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Clicked in Register Link
+19:31:57.150 [main] ERROR testCases.TC_001_AccountRegistrationTest - [!] Assertion Failed as there is Incorrect Confirmation Message
+19:31:57.166 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Finished the Test of TC_001***********
+19:31:57.343 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Closing the Browser
+19:32:49.347 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Started the Chrome Browser
+19:32:53.251 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Opened the PARA BANK Portal
+19:32:53.288 [main] INFO  testCases.TC_001_AccountRegistrationTest - [+] Maximized the Chrome Browser
+19:32:53.297 [main] INFO  testCases.TC_001_AccountRegistrationTest - **********Started the Test of TC_001***********
